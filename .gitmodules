@@ -1,2 +1,3 @@
 [submodule "voter"]
+	path = voter
 	url = https://github.com/photonized/voter
