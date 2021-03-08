@@ -2,6 +2,6 @@
 	path = voter
 	url = https://github.com/photonized/voter
 
-[submodule "ethereum_truffle_intro"]
-	path = ethereum_truffle_intro
-	url = https://github.com/photonized/ethereum_truffle_intro
+[submodule "truffle-pet-shop"]
+	path = truffle-pet-shop
+	url = https://github.com/photonized/truffle-pet-shop
