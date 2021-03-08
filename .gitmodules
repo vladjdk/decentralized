@@ -1,3 +1,7 @@
 [submodule "voter"]
 	path = voter
 	url = https://github.com/photonized/voter
+
+[submodule "ethereum_truffle_intro"]
+	path = ethereum_truffle_intro
+	url = https://github.com/photonized/ethereum_truffle_intro
